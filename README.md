@@ -36,4 +36,4 @@ Em relação ao npm, isso varia de projeto para projeto, mas provavelmente você
 
 `gulp`
 
-Se você não faz idéia do que significa estes comandos, sugiro que comece a estudar um a um antes de colocar uma aplicação em produção. A documentação oficial do Laravel 5.2 contém dois projetos exemplos desenvolvido passo-a-passo, não é uma má idéia iniciar por ai, está em inglês mas o texto é de fácil leitura.
+Se você não faz idéia do que significa estes comandos, sugiro que comece a estudar um a um antes de colocar uma aplicação em produção. A documentação oficial do Laravel contém dois projetos exemplos desenvolvido passo-a-passo, não é uma má idéia iniciar por ai, está em inglês mas o texto é de fácil leitura.
